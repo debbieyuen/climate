@@ -7,4 +7,6 @@
 ## runing Climax on the Map
 * Weights downloaded from the Hugging Face
 * Download the data and train and fine tune it
-* Should be able to do eveyrthing on the mark 
+* Should be able to do eveyrthing on the mark
+* nirr, vaper, tnr,
+* give me a header of history
